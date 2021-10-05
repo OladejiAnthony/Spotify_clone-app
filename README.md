@@ -1,3 +1,16 @@
+# Spotify-Clone-App
+ This project was created with the following elements:
+   1. React Js - React is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
+   2. Google User Authentication(Firebase) - Most apps need to know the identity of a user. Knowing a user's identity allows an app to securely save user data in the cloud and provide the same personalized experience across all of the user's devices. Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. It supports authentication using passwords, phone numbers, popular federated identity providers like Google, Facebook and Twitter, and more.
+   3. React Context API - The React Context API is a way for a React app to effectively produce global variables that can be passed around. This is the alternative to "prop drilling" or moving props from grandparent to child to parent, and so on. Context is also touted as an easier, lighter approach to state management using Redux.
+   4. Material UI - Material-UI is simply a library that allows us to import and use different components to create a user interface in our React applications. This saves a significant amount of time since the developers do not need to write everything from scratch. Material-UI is an open-source project that features React components that implement Google's Material Design.
+   5. CSS Flexbox - CSS Flexible Box Layout, commonly known as Flexbox, is a CSS 3 web layout model. The flex layout allows responsive elements within a container to be automatically arranged depending upon screen size
+   6. Spotify API - Basically it is an interface that programs can use to retrieve and manage Spotify data over the internet. The Web API uses the same HTTP protocol that’s used by every internet browser. In fact, you can access the API directly from your own browser. The Spotify's Web API lets your applications fetch data from the Spotify music catalog and manage user's playlists and saved music.
+ 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
